@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pu3EaHaBrCnAirb93gRH5rxdNN3BTiYcfYozEOJZauc=",
+  "Source": "Novalley-api-server",
+  "BasePath": "_content/Novalley-api-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

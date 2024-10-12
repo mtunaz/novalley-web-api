@@ -1,0 +1,6 @@
+@Novalley_api_server_HostAddress = http://localhost:5116
+
+GET {{Novalley_api_server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
