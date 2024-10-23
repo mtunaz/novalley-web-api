@@ -113,3 +113,5 @@ C:\Users\ADMIN\source\repos\Novalley\Novalley-api-server\bin\Debug\net8.0\ru\Mic
 C:\Users\ADMIN\source\repos\Novalley\Novalley-api-server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\ADMIN\source\repos\Novalley\Novalley-api-server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\ADMIN\source\repos\Novalley\Novalley-api-server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\source\repos\Novalley\Novalley-api-server\obj\Debug\net8.0\Novalley-api-server.sourcelink.json
+C:\Users\ADMIN\source\repos\Novalley\Novalley-api-server\bin\Debug\net8.0\AutoMapper.dll
