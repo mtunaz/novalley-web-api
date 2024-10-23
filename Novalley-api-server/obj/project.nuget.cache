@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2sgOzoCJEJlhZ/8Afe+CatybE0qB5mV8hL1aAekb4fM7MgRiNOAuckxlJ4lrkPpJo86I81xjicLwx4r0c3ZePA==",
+  "dgSpecHash": "mtNp1oDNDzTw6iWu6uQCU4esdq8Hz9dApUM92AwbxdBrU0rIbd1pUhcrLiPEcRxSGMJ8QGxgo6nnwqeCxBbaUQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ADMIN\\source\\repos\\Novalley\\Novalley-api-server\\Novalley-api-server.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.10\\microsoft.aspnetcore.cryptography.internal.8.0.10.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.10\\microsoft.aspnetcore.cryptography.keyderivation.8.0.10.nupkg.sha512",
